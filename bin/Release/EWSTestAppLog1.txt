@@ -1,0 +1,71 @@
+Folder : WCSE_FolderMappings has  1 emails
+Folder: WCSE_FolderMappings
+Folder will be deleted id it is deleted
+Folder will be deleted id it is empty
+Folder will be deleted if it is empty
+Folder will be deleted if it is empty
+folder WCSE_FolderMappings has been deleted
+it is a search folder
+WCSE_FolderMappings is a search folder
+Users.txt doesn't exist
+Processing User: thopulou@wcsdev.net
+Processing User: thopulou@wcsdev.net
+Processing User: thopulou@wcsdev.net
+Processing User: thopulou@wcsdev.net
+Processing User: thopulou@wcsdev.net
+Processing User: thopulou@wcsdev.net
+Processing User: thopulou@wcsdev.net
+Folder: 9/16/2019 11:41:23 AM - The specified date isn't valid. 
+User: thopulou@wcsdev.net Processed Successfully
+User: thopulou@wcsdev.net Processed Successfully
+User: thopulou@wcsdev.net Processed Successfully
+User: thopulou@wcsdev.net Processed Successfully
+Folder: 9/16/2019 12:26:59 PM - The specified date isn't valid. 
+User: thopulou@wcsdev.net Processed Successfully
+User: thopulou@wcsdev.net Processed Successfully
+User: thopulou@wcsdev.net Processed Successfully
+User: thopulou@wcsdev.net Processed Successfully
+User: thopulou@wcsdev.net Processed Successfully
+User: thopulou@wcsdev.net Processed Successfully
+User: thopulou@wcsdev.net Processed Successfully
+User: thopulou@wcsdev.net Processed Successfully
+User: thopulou@wcsdev.net Processed Successfully
+User: thopulou@wcsdev.net Processed Successfully
+User: thopulou@wcsdev.net Processed Successfully
+User: thopulou@wcsdev.net Processed Successfully
+Folder: 9/16/2019 3:44:14 PM - Validation failed.
+Parameter name: searchFilter 
+User: thopulou@wcsdev.net Processed Successfully
+User: thopulou@wcsdev.net Processed Successfully
+User: thopulou@wcsdev.net Processed Successfully
+User: thopulou@wcsdev.net Processed Successfully
+Folder: 9/20/2019 4:16:42 PM - Index and length must refer to a location within the string.
+Parameter name: length 
+User: thopulou@wcsdev.net Processed Successfully
+User: thopulou@wcsdev.net Processed Successfully
+User: thopulou@wcsdev.net Processed Successfully
+User: thopulou@wcsdev.net Processed Successfully
+User: thopulou@wcsdev.net Processed Successfully
+User: thopulou@wcsdev.net Processed Successfully
+Folder: 9/26/2019 3:07:25 PM - Object reference not set to an instance of an object. 
+Folder: 9/26/2019 3:12:36 PM - Object reference not set to an instance of an object. 
+Folder: 9/26/2019 4:52:51 PM - Object reference not set to an instance of an object. 
+Folder: 9/26/2019 4:53:20 PM - Object reference not set to an instance of an object. 
+User: thopulou@wcsdev.net Processed Successfully
+Folder: 9/27/2019 1:10:54 PM - Object reference not set to an instance of an object. 
+Folder: 9/27/2019 1:12:22 PM - Object reference not set to an instance of an object. 
+User: thopulou@wcsdev.net Processed Successfully
+Folder: 10/7/2019 3:00:41 PM - The process cannot access the file 'C:\EWSTestApp\bin\Release\DocNum.txt' because it is being used by another process. 
+Folder: 10/7/2019 3:06:42 PM - The process cannot access the file 'C:\EWSTestApp\bin\Release\DocNum.txt' because it is being used by another process. 
+Folder: 10/9/2019 3:02:35 PM - Object reference not set to an instance of an object. 
+Folder: 10/9/2019 3:03:23 PM - Object reference not set to an instance of an object. 
+Folder: 10/9/2019 3:21:03 PM - Object reference not set to an instance of an object. 
+Folder: 10/9/2019 3:30:28 PM - Object reference not set to an instance of an object. 
+Folder: 10/9/2019 3:32:53 PM - Object reference not set to an instance of an object. 
+Folder: 10/9/2019 3:37:47 PM - Object reference not set to an instance of an object. 
+Folder: 10/9/2019 3:42:00 PM - Object reference not set to an instance of an object. 
+Folder: 12/4/2019 2:30:05 PM - Exchange Web Services are not currently available for this request because none of the Client Access Servers in the destination site could process the request. 
+Folder: 12/5/2019 4:01:12 PM - Could not find a part of the path 'C:\EWSTestApp\bin\Release\CurrentDir\export\FF4442062349C744AFB63FBA0A25503D.eml'. 
+Folder: 12/5/2019 4:01:18 PM - Could not find a part of the path 'C:\EWSTestApp\bin\Release\CurrentDir\export\FF4442062349C744AFB63FBA0A25503D.eml'. 
+Folder: 12/4/2019 4:01:28 PM - Could not find a part of the path 'C:\EWSTestApp\bin\Release\CurrentDir\export\FF4442062349C744AFB63FBA0A25503D.eml'. 
+Folder: 12/4/2019 4:01:49 PM - Could not find a part of the path 'C:\EWSTestApp\bin\Release\CurrentDir\export\FF4442062349C744AFB63FBA0A25503D.eml'. 

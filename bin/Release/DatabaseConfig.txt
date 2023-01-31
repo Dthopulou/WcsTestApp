@@ -1,0 +1,5 @@
+[DatabaseInfo]
+DataSource=10.8.210.115
+Database=WCS10DB1
+UserID=sa
+Password=mhdocs

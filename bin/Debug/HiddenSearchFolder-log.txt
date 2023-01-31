@@ -1,0 +1,97 @@
+8/4/2015 11:38:14 PM: EwsRequestHttpHeaders - <Trace Tag="EwsRequestHttpHeaders" Tid="9" Time="2015-08-05 04:38:14Z">
+POST /EWS/Exchange.asmx HTTP/1.1
+Content-Type: text/xml; charset=utf-8
+Accept: text/xml
+User-Agent: ExchangeServicesClient/14.03.0032.000
+Accept-Encoding: gzip,deflate
+
+
+</Trace>
+
+8/4/2015 11:38:14 PM: EwsRequest - <Trace Tag="EwsRequest" Tid="9" Time="2015-08-05 04:38:14Z" Version="14.03.0032.000">
+  <?xml version="1.0" encoding="utf-8"?>
+  <soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:m="http://schemas.microsoft.com/exchange/services/2006/messages" xmlns:t="http://schemas.microsoft.com/exchange/services/2006/types" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+    <soap:Header>
+      <t:RequestServerVersion Version="Exchange2010" />
+      <t:ExchangeImpersonation>
+        <t:ConnectingSID>
+          <t:SmtpAddress>jsmith@imanage.microsoftonline.com</t:SmtpAddress>
+        </t:ConnectingSID>
+      </t:ExchangeImpersonation>
+    </soap:Header>
+    <soap:Body>
+      <m:CreateFolder>
+        <m:ParentFolderId>
+          <t:DistinguishedFolderId Id="msgfolderroot" />
+        </m:ParentFolderId>
+        <m:Folders>
+          <t:SearchFolder>
+            <t:DisplayName>Hidden-Folder2</t:DisplayName>
+            <t:ExtendedProperty>
+              <t:ExtendedFieldURI PropertyTag="4340" PropertyType="Boolean" />
+              <t:Value>true</t:Value>
+            </t:ExtendedProperty>
+            <t:SearchParameters Traversal="Deep">
+              <t:Restriction>
+                <t:Contains ContainmentMode="Substring" ContainmentComparison="IgnoreCase">
+                  <t:FieldURI FieldURI="item:Subject" />
+                  <t:Constant Value="Queued" />
+                </t:Contains>
+              </t:Restriction>
+              <t:BaseFolderIds>
+                <t:DistinguishedFolderId Id="root" />
+              </t:BaseFolderIds>
+            </t:SearchParameters>
+          </t:SearchFolder>
+        </m:Folders>
+      </m:CreateFolder>
+    </soap:Body>
+  </soap:Envelope>
+</Trace>
+
+8/4/2015 11:38:16 PM: EwsResponseHttpHeaders - <Trace Tag="EwsResponseHttpHeaders" Tid="9" Time="2015-08-05 04:38:16Z">
+200 OK
+Transfer-Encoding: chunked
+Content-Encoding: gzip
+Vary: Accept-Encoding
+request-id: 7fc8e59a-55d3-48b2-96e5-efca540cec89
+X-CalculatedBETarget: BLUPR04MB055.namprd04.prod.outlook.com
+X-BackEndHttpStatus: 200
+x-EwsHandler: CreateFolder
+X-DiagInfo: BLUPR04MB055
+X-BEServer: BLUPR04MB055
+X-FEServer: BY2PR04CA0080
+Cache-Control: private
+Content-Type: text/xml; charset=utf-8
+Date: Wed, 05 Aug 2015 04:39:12 GMT
+Set-Cookie: exchangecookie=34d8c39565014cae9c038ed909dc94bc; expires=Fri, 05-Aug-2016 04:39:11 GMT; path=/; HttpOnly
+Server: Microsoft-IIS/8.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+
+
+</Trace>
+
+8/4/2015 11:38:16 PM: EwsResponse - <Trace Tag="EwsResponse" Tid="9" Time="2015-08-05 04:38:16Z" Version="14.03.0032.000">
+  <?xml version="1.0" encoding="utf-8"?>
+  <s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/">
+    <s:Header>
+      <h:ServerVersionInfo MajorVersion="15" MinorVersion="1" MajorBuildNumber="225" MinorBuildNumber="24" Version="V2_48" xmlns:h="http://schemas.microsoft.com/exchange/services/2006/types" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+    </s:Header>
+    <s:Body>
+      <m:CreateFolderResponse xmlns:m="http://schemas.microsoft.com/exchange/services/2006/messages" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:t="http://schemas.microsoft.com/exchange/services/2006/types">
+        <m:ResponseMessages>
+          <m:CreateFolderResponseMessage ResponseClass="Success">
+            <m:ResponseCode>NoError</m:ResponseCode>
+            <m:Folders>
+              <t:SearchFolder>
+                <t:FolderId Id="AAMkAGFkZTM1MjY3LWZiYzAtNDA1ZC04NWI3LTA1ZWRlYzE2NjVjZAAuAAAAAAAehyvl2c+VRaNBUFlASUlpAQA5Thqx2ogYS5z4GmODBiBuAAIUtG/hAAA=" ChangeKey="BwAAABYAAAA5Thqx2ogYS5z4GmODBiBuAAIU2BdN" />
+              </t:SearchFolder>
+            </m:Folders>
+          </m:CreateFolderResponseMessage>
+        </m:ResponseMessages>
+      </m:CreateFolderResponse>
+    </s:Body>
+  </s:Envelope>
+</Trace>
+

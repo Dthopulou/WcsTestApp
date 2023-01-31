@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartArguments>IMPORT-MSG-TO-FOLDER WCSadmin%40wcsdev.net !manage5 10.8.210.113 Exchange2013 2 1 false try</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <StartArguments>SCAN-SENT-ITEM-FOLDER WCSadmin%40wcsdev.net !manage5 10.8.210.113 Exchange2010_SP1 IWOV 1 False</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ReferencePath>
+    </ReferencePath>
+  </PropertyGroup>
+</Project>

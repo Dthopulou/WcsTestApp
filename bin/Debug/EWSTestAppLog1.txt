@@ -1,0 +1,112 @@
+thopulou@wcsdev.net has no folder with the name WCSE_FolderMappings
+Folder: 10/12/2018 10:19:58 AM - The SMTP address has no mailbox associated with it. 
+Folder: 10/12/2018 10:30:16 AM - The SMTP address has no mailbox associated with it. 
+Folder: 10/12/2018 10:34:07 AM - The SMTP address has no mailbox associated with it. 
+thopulou@wcsdev.net has no folder with the name WCSE_FolderMappings
+Folder: 10/12/2018 10:41:53 AM - The SMTP address has no mailbox associated with it. 
+Folder: 10/12/2018 10:42:33 AM - The SMTP address has no mailbox associated with it. 
+thopulou@wcsdev.net has no folder with the name WCSE_FolderMappings
+Folder: 10/12/2018 10:44:57 AM - The SMTP address has no mailbox associated with it. 
+Folder : WCSE_FolderMappings has  1 emails
+Generic SearchFodler Renamed to Renamedto19
+Folder: 10/12/2018 10:48:21 AM - The SMTP address has no mailbox associated with it. 
+Folder : WCSE_FolderMappings has  1 emails
+Generic SearchFodler Renamed to Renamedto20
+Folder: 10/12/2018 10:49:27 AM - The SMTP address has no mailbox associated with it. 
+folder WCSE_FolderMappings is not a WCSE Search folder and it has been deleted
+Folder: 10/12/2018 10:54:38 AM - The SMTP address has no mailbox associated with it. 
+folder WCSE_FolderMappings is not a WCSE Search folder and it has been deleted
+Folder: 10/12/2018 10:59:01 AM - The SMTP address has no mailbox associated with it. 
+Folder WCSE_FolderMappings is not a WCSE Search folder and it has been deleted
+Folder: 10/12/2018 4:46:58 PM - The SMTP address has no mailbox associated with it. 
+Folder : WCSE_FolderMappings is not a WCSE Search folder and it has been deleted
+Folder: 10/12/2018 5:02:29 PM - The SMTP address has no mailbox associated with it. 
+Folder : WCSE_FolderMappings is not a WCSE Search folder and it has been deleted
+Folder: 10/12/2018 5:05:31 PM - The SMTP address has no mailbox associated with it. 
+Folder : WCSE_FolderMappings is not a WCSE Search folder and it has been deleted
+Folder: 10/12/2018 5:06:30 PM - The SMTP address has no mailbox associated with it. 
+Folder : WCSE_FolderMappings is not a WCSE Search folder and it has been deleted
+Folder: 10/12/2018 5:09:05 PM - The SMTP address has no mailbox associated with it. 
+Folder : WCSE_FolderMappings is not a WCSE Search folder and it has been deleted
+Folder: 10/12/2018 8:17:47 PM - The SMTP address has no mailbox associated with it. 
+Folder : WCSE_FolderMappings is not a WCSE Search folder and it has been deleted
+Folder: 10/12/2018 8:17:49 PM - The SMTP address has no mailbox associated with it. 
+Folder : WCSE_FolderMappings is not a WCSE Search folder and it has been deleted
+Folder: 10/17/2018 12:41:50 PM - The SMTP address has no mailbox associated with it. 
+Folder : WCSE_FolderMappings is not a WCSE Search folder and it has been deleted for User: thopulou@wcsdev.net
+Folder: 10/17/2018 12:44:24 PM - The SMTP address has no mailbox associated with it. 
+Folder : WCSE_FolderMappings has  1 emails
+Generic SearchFodler Renamed to try for User:thopulou@wcsdev.net
+Processing User: thopulou23@wcsdev.net
+Folder: 10/17/2018 12:50:43 PM - The SMTP address has no mailbox associated with it. 
+Processing User: thopulou@wcsdev.net
+Folder : WCSE_FolderMappings has  1 emails
+Generic SearchFodler Renamed to try for User:thopulou@wcsdev.net
+User: thopulou@wcsdev.net Processed
+Processing User: thopulou23@wcsdev.net
+Folder: 10/17/2018 12:52:33 PM - The SMTP address has no mailbox associated with it. 
+Processing User: thopulou@wcsdev.net
+Folder : WCSE_FolderMappings has  1 emails
+Generic SearchFodler Renamed to try for User:thopulou@wcsdev.net
+User: thopulou@wcsdev.net Processed
+Processing User: thopulou23@wcsdev.net
+Folder: 10/17/2018 12:55:13 PM - The SMTP address has no mailbox associated with it. 
+Processing User: thopulou@wcsdev.net
+Folder : WCSE_FolderMappings has  1 emails
+Generic SearchFodler Renamed to try for User:thopulou@wcsdev.net
+User: thopulou@wcsdev.net Processed
+Processing User: thopulou23@wcsdev.net
+Folder: 10/17/2018 1:01:49 PM - The SMTP address has no mailbox associated with it. 
+Processing User: thopulou@wcsdev.net
+Folder : WCSE_FolderMappings has  1 emails
+Generic SearchFodler Renamed to try for User:thopulou@wcsdev.net
+Processing User: thopulou23@wcsdev.net
+Folder: 10/17/2018 1:09:35 PM - The SMTP address has no mailbox associated with it. 
+Processing User: thopulou@wcsdev.net
+Folder : WCSE_FolderMappings has  1 emails
+Generic SearchFodler:WCSE_FolderMappings Renamed to try for User:thopulou@wcsdev.net
+User: thopulou@wcsdev.net Processed
+Processing User: thopulou23@wcsdev.net
+Folder: 10/17/2018 1:10:47 PM - The SMTP address has no mailbox associated with it. 
+Processing User: thopulou@wcsdev.net
+Folder : WCSE_FolderMappings has  1 emails
+Generic SearchFodler:WCSE_FolderMappings Renamed to try for User:thopulou@wcsdev.net
+User: thopulou@wcsdev.net Processed
+Processing User: thopulou23@wcsdev.net
+Folder: 10/17/2018 1:12:49 PM - The SMTP address has no mailbox associated with it. 
+Processing User: thopulou@wcsdev.net
+Folder : WCSE_FolderMappings has  1 emails
+Generic SearchFodler:WCSE_FolderMappings Renamed to try for User:thopulou@wcsdev.net
+User: thopulou@wcsdev.net Processed
+Processing User: thopulou23@wcsdev.net
+Folder: 10/17/2018 1:14:04 PM - The SMTP address has no mailbox associated with it. 
+Processing User: thopulou@wcsdev.net
+Folder : WCSE_FolderMappings has  1 emails
+Generic SearchFodler:WCSE_FolderMappings Renamed to try for User:thopulou@wcsdev.net
+User: thopulou@wcsdev.net Processed Successfully
+Processing User: thopulou23@wcsdev.net
+Folder: 10/17/2018 2:38:26 PM - The SMTP address has no mailbox associated with it. 
+Processing User: thopulou@wcsdev.net
+Folder : WCSE_FolderMappings has  1 emails
+Generic SearchFodler:WCSE_FolderMappings Renamed to try for User:thopulou@wcsdev.net
+User: thopulou@wcsdev.net Processed Successfully
+Processing User: thopulou34csdev.net
+Folder: 10/17/2018 2:38:28 PM - The SMTP address has no mailbox associated with it. 
+Processing User: thopulou67csdev.net
+Folder: 10/17/2018 2:38:28 PM - The SMTP address has no mailbox associated with it. 
+Processing User: thopulou15csdev.net
+Folder: 10/17/2018 2:38:28 PM - The SMTP address has no mailbox associated with it. 
+Processing User: thopulou16csdev.net
+Folder: 10/17/2018 2:38:28 PM - The SMTP address has no mailbox associated with it. 
+Processing User: thopulou@wcsdev.net
+Folder : WCSE_FolderMappings has  1 emails
+Generic SearchFodler:WCSE_FolderMappings Renamed to try for User:thopulou@wcsdev.net
+User: thopulou@wcsdev.net Processed Successfully
+msg files will be imported to the specified folder
+User: testforc@wcsdev.net Processed Successfully
+User: thopulou@wcsdev.net Processed Successfully
+Folder: 6/30/2021 2:51:46 PM - The SMTP address has no mailbox associated with it. 
+Folder: 6/30/2021 2:51:46 PM - The SMTP address has no mailbox associated with it. 
+Folder: 6/30/2021 2:51:47 PM - The SMTP address has no mailbox associated with it. 
+Folder: 6/30/2021 2:51:47 PM - The SMTP address has no mailbox associated with it. 
+User: thopulou@wcsdev.net Processed Successfully

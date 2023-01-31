@@ -1,0 +1,62 @@
+=========================================================================================================================================================
+Processing thopulou@wcsdev.net:thopulou
+Folder: Could not load file or assembly 'Interop.IManage, Version=9.0.0.0, Culture=neutral, PublicKeyToken=601623aa95e741f5' or one of its dependencies. The system cannot find the file specified. 
+=========================================================================================================================================================
+Processing thopulou@wcsdev.net:thopulou
+Folder: Could not load file or assembly 'Interop.IManage, Version=9.0.0.0, Culture=neutral, PublicKeyToken=601623aa95e741f5' or one of its dependencies. The system cannot find the file specified. 
+=========================================================================================================================================================
+Processing thopulou@wcsdev.net:thopulou
+Folder: Could not load file or assembly 'Interop.IManage, Version=9.0.0.0, Culture=neutral, PublicKeyToken=601623aa95e741f5' or one of its dependencies. The system cannot find the file specified. 
+=========================================================================================================================================================
+Processing thopulou@wcsdev.net:thopulou
+Folder: Could not load file or assembly 'Interop.IManage, Version=9.0.0.0, Culture=neutral, PublicKeyToken=601623aa95e741f5' or one of its dependencies. The system cannot find the file specified. 
+=========================================================================================================================================================
+Processing thopulou@wcsdev.net:thopulou
+=========================================================================================================================================================
+Processing thopulou@wcsdev.net:thopulou
+=========================================================================================================================================================
+Processing thopulou@wcsdev.net:thopulou
+=========================================================================================================================================================
+Processing thopulou@wcsdev.net:thopulou
+=========================================================================================================================================================
+Processing thopulou@wcsdev.net:thopulou
+=========================================================================================================================================================
+Processing thopulou@wcsdev.net:thopulou
+Folder: Could not load file or assembly 'Interop.IManage, Version=9.0.0.0, Culture=neutral, PublicKeyToken=601623aa95e741f5' or one of its dependencies. The system cannot find the file specified. 
+=========================================================================================================================================================
+Processing thopulou@wcsdev.net:thopulou
+Folder: Could not load file or assembly 'Interop.IManage, Version=9.0.0.0, Culture=neutral, PublicKeyToken=601623aa95e741f5' or one of its dependencies. The system cannot find the file specified. 
+=========================================================================================================================================================
+Processing thopulou@wcsdev.net:thopulou
+Folder: Could not load file or assembly 'Interop.IManage, Version=9.0.0.0, Culture=neutral, PublicKeyToken=601623aa95e741f5' or one of its dependencies. The system cannot find the file specified. 
+=========================================================================================================================================================
+Processing thopulou@wcsdev.net:thopulou
+=========================================================================================================================================================
+Processing thopulou@wcsdev.net:thopulou
+Folder: Object reference not set to an instance of an object. 
+=========================================================================================================================================================
+Processing thopulou@wcsdev.net:thopulou
+=========================================================================================================================================================
+Processing thopulou@wcsdev.net:thopulou
+=========================================================================================================================================================
+Processing thopulou@wcsdev.net:thopulou
+=========================================================================================================================================================
+Processing thopulou@wcsdev.net:thopulou
+=========================================================================================================================================================
+Processing thopulou@wcsdev.net:thopulou
+=========================================================================================================================================================
+Processing thopulou@wcsdev.net:thopulou
+Total number of items deleted from folder CustomFol1 [WorkSite] is: 6
+=========================================================================================================================================================
+Processing thopulou@wcsdev.net:thopulou
+Total number of items deleted from folder CustomFol1 [WorkSite] is: 0
+=========================================================================================================================================================
+Processing thopulou@wcsdev.net:thopulou
+=========================================================================================================================================================
+Processing thopulou@wcsdev.net:thopulou
+=========================================================================================================================================================
+Processing thopulou@wcsdev.net:thopulou
+No mapped fodler for user thopulou@wcsdev.net
+=========================================================================================================================================================
+Processing thopulou@wcsdev.net:thopulou
+Total number of items deleted from folder CustomFol2 [WorkSite] is: 9
